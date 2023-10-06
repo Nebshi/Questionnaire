@@ -1,0 +1,75 @@
+johan testare - 2023-10-06T01:24:19.806Z
+
+{
+  "Kat": 12,
+  "Hund": 21,
+  "Kanin": 9,
+  "Fisk": 11
+}
+
+karlsson karlsson - 2023-10-06T01:25:51.830Z
+
+{
+  "Kat": 8,
+  "Hund": 9,
+  "Kanin": 8,
+  "Fisk": 15
+}
+
+neby - 2023-10-06T01:30:48.683Z
+
+{
+  "Kat": 13,
+  "Hund": 12,
+  "Kanin": 11,
+  "Fisk": 17
+}
+
+Johan Eriksson - 2023-10-06T21:22:30.242Z
+
+{
+  "Kat": 19,
+  "Hund": 13,
+  "Kanin": 16,
+  "Fisk": 19
+}
+
+Martin karlsson - 2023-10-06T21:33:33.153Z
+
+{}
+
+martin karlsson - 2023-10-06T21:34:00.071Z
+
+{}
+
+Bengt - 2023-10-06T21:35:24.999Z
+
+{}
+
+Neby - 2023-10-06T21:36:07.024Z
+
+{
+  "Kat": 2,
+  "Hund": 3,
+  "Kanin": 4,
+  "Fisk": 3
+}
+
+henrik  - 2023-10-06T21:37:32.439Z
+
+{
+  "Kat": 10,
+  "Hund": 8,
+  "Kanin": 10,
+  "Fisk": 20
+}
+
+neby - 2023-10-06T21:49:50.011Z
+
+{
+  "Kat": 16,
+  "Hund": 14,
+  "Kanin": 16,
+  "Fisk": 21
+}
+
